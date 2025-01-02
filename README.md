@@ -12,9 +12,7 @@
 |   主&emsp;页   | <https://yesuifeng.cc>                                   | 
 | :------------: | :------------------------------------------------------- |
 | **博&emsp;客** | **<https://yesuifeng.cc>**                               |
-| **笔&emsp;记** | **<https://github.com/maomao1996/daily-notes>**          |  
-|   **播放器**   | **<https://netease-music.fe-mm.com>**                    |  
-| **油&emsp;猴** | **<https://github.com/maomao1996/tampermonkey-scripts>** | 
+
 
 **Languages:**
 
