@@ -7,7 +7,9 @@
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=20000428.20000428" align="center" alt="visitors">
 
+<div style="text-align: right; padding-right: 10px;">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align="right" alt="">
+</div>
 
 |   主&emsp;页   | <https://yesuifeng.cc>                                   | 
 | :------------: | :------------------------------------------------------- |
