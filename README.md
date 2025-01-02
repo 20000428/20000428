@@ -1,20 +1,20 @@
-### Hi there, I'm maomao1996 👋
+### Hi there, I'm yesuifeng 👋
 
 <pre>
-吾志所向，一往无前。
+没关系，又活了一天，已经很棒了
                               -- 一个想躺平的小开发
 </pre>
 
-**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
+**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=20000428.20000428" align="center" alt="visitors">
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
-|   主&emsp;页   | <https://fe-mm.com>                                      |
+<!-- |   主&emsp;页   | <https://fe-mm.com>                                      | -->
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://notes.fe-mm.com>**                            |
-| **笔&emsp;记** | **<https://github.com/maomao1996/daily-notes>**          |
-|   **播放器**   | **<https://netease-music.fe-mm.com>**                    |
-| **油&emsp;猴** | **<https://github.com/maomao1996/tampermonkey-scripts>** |
+| **博&emsp;客** | **<https://yesuifeng.cc>**                            |
+<!-- | **笔&emsp;记** | **<https://github.com/maomao1996/daily-notes>**          | -->
+<!-- |   **播放器**   | **<https://netease-music.fe-mm.com>**                    |
+| **油&emsp;猴** | **<https://github.com/maomao1996/tampermonkey-scripts>** | -->
 
 **Languages:**
 
@@ -35,5 +35,5 @@
 
 **GitHub Stats:**
 
-![maomao's github stats](https://github-readme-stats.vercel.app/api?username=maomao1996&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maomao1996&layout=compact)
+![maomao's github stats](https://github-readme-stats.vercel.app/api?username=20000428&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20000428&layout=compact)
